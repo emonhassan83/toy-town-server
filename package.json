@@ -22,7 +22,7 @@
     "express-async-handler": "^1.2.0",
     "http-status": "^1.7.4",
     "jsonwebtoken": "^9.0.2",
-    "mongodb": "^5.5.0",
+    "mongodb": "^5.8.0",
     "mongoose": "^8.22.1",
     "nodemailer": "^8.0.5",
     "zod": "^3.22.4"
